@@ -1,0 +1,9 @@
+C:\Users\FFT\Desktop\Haris khan snake game\Snake Game Project\bin\Debug\Snake Game Project.exe.config
+C:\Users\FFT\Desktop\Haris khan snake game\Snake Game Project\bin\Debug\Snake Game Project.exe
+C:\Users\FFT\Desktop\Haris khan snake game\Snake Game Project\bin\Debug\Snake Game Project.pdb
+C:\Users\FFT\Desktop\Haris khan snake game\Snake Game Project\obj\Debug\Snake Game Project.csproj.AssemblyReference.cache
+C:\Users\FFT\Desktop\Haris khan snake game\Snake Game Project\obj\Debug\Snake_Game_Project.Properties.Resources.resources
+C:\Users\FFT\Desktop\Haris khan snake game\Snake Game Project\obj\Debug\Snake Game Project.csproj.GenerateResource.cache
+C:\Users\FFT\Desktop\Haris khan snake game\Snake Game Project\obj\Debug\Snake Game Project.csproj.CoreCompileInputs.cache
+C:\Users\FFT\Desktop\Haris khan snake game\Snake Game Project\obj\Debug\Snake Game Project.exe
+C:\Users\FFT\Desktop\Haris khan snake game\Snake Game Project\obj\Debug\Snake Game Project.pdb
